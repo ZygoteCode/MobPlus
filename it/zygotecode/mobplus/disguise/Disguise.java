@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.disguise;
+package it.zygotecode.mobplus.disguise;
 
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.LivingEntity;

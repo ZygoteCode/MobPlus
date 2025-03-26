@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus;
+package it.zygotecode.mobplus;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,10 +11,10 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import it.gabrielebologna.mobplus.cmd.DisguiseCmd;
-import it.gabrielebologna.mobplus.cmd.UndisguiseCmd;
-import it.gabrielebologna.mobplus.disguise.DisguiseListener;
-import it.gabrielebologna.mobplus.disguise.DisguiseManager;
+import it.zygotecode.mobplus.cmd.DisguiseCmd;
+import it.zygotecode.mobplus.cmd.UndisguiseCmd;
+import it.zygotecode.mobplus.disguise.DisguiseListener;
+import it.zygotecode.mobplus.disguise.DisguiseManager;
 
 public class Main extends JavaPlugin
 {

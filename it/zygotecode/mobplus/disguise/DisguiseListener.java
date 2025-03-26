@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.disguise;
+package it.zygotecode.mobplus.disguise;
 
 import org.bukkit.Bukkit;
 import org.bukkit.GameMode;
@@ -33,7 +33,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
-import it.gabrielebologna.mobplus.Main;
+import it.zygotecode.mobplus.Main;
 
 public class DisguiseListener implements Listener
 {

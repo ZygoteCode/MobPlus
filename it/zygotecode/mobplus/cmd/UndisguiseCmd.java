@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.cmd;
+package it.zygotecode.mobplus.cmd;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
@@ -6,8 +6,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import it.gabrielebologna.mobplus.Main;
-import it.gabrielebologna.mobplus.disguise.utils.PermissionsUtils;
+import it.zygotecode.mobplus.Main;
+import it.zygotecode.mobplus.disguise.utils.PermissionsUtils;
 
 public class UndisguiseCmd implements CommandExecutor
 {

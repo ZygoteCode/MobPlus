@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.disguise;
+package it.zygotecode.mobplus.disguise;
 
 import java.util.ArrayList;
 
@@ -15,9 +15,9 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
-import it.gabrielebologna.mobplus.Main;
-import it.gabrielebologna.mobplus.disguise.utils.InventoryUtils;
-import it.gabrielebologna.mobplus.disguise.utils.NoAI;
+import it.zygotecode.mobplus.Main;
+import it.zygotecode.mobplus.disguise.utils.InventoryUtils;
+import it.zygotecode.mobplus.disguise.utils.NoAI;
 
 public class DisguiseManager
 {

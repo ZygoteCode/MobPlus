@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.disguise;
+package it.zygotecode.mobplus.disguise;
 
 public enum DisguiseType
 {

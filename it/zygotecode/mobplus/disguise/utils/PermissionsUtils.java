@@ -1,4 +1,4 @@
-package it.gabrielebologna.mobplus.disguise.utils;
+package it.zygotecode.mobplus.disguise.utils;
 
 import org.bukkit.entity.Player;
 
